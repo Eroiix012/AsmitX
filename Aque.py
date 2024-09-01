@@ -137,7 +137,7 @@ def approval():
         linex()
 
         urls = [
-            "https://github.com/Eroiix012/AsmitX/edit/main/Approve.txt",
+            "https://github.com/Eroiix012/AsmitX/edit/main/Approve.txt"
         ]
 
         key_found = False
